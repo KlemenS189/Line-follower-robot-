@@ -1,0 +1,6 @@
+Vprašanja:
+
+1. 9V napajalna napetost in 6V motorji??
+2. Dodani elementi pri napajanju.
+3. SMD ali THT driver, glede na št. uporabljenih pinov.
+4. COM A in B pri enkoderjih. Kaj je to? Ali rabimo obadva za doloèevanje smeri vrtenja.
